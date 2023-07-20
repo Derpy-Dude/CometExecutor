@@ -1,9 +1,7 @@
 # Scripts
-  Aimbot
-  BloxHunt
-  AdoptMe
-  Aimbot3.0
-  MeepCity
+  
+Aimbot BloxHunt
+AdoptMe  Aimbot3.0  MeepCity
   ClickTPTool
   CocoHub
   InfiniteYield
