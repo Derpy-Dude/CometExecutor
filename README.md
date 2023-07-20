@@ -1,5 +1,32 @@
-# How to download
+# Scripts
 
-1. Disable real time protection or important files will be deleted!
-2. Download the executor
-3. Run the executor
+Aimbot
+BloxHunt
+AdoptMe
+Aimbot3.0
+MeepCity
+ClickTPTool
+CocoHub
+InfiniteYield
+SharkBite
+TuperHub
+SharkBite2
+MM2
+FLeeTheFacility
+JailBreak
+DoubleDown
+BloxFruits
+GenericRoleplayGame
+Evade
+MadCity
+RaceClicker
+PetSimX
+BoogaBooga
+TowerDefenseSimulator
+Doors
+LegendsOfSpeed
+DaHood
+Arsenal
+BrookHaven
+SlapBattles
+and more...
