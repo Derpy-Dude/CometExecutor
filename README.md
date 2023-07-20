@@ -20,10 +20,9 @@ AdoptMe- Aimbot3.0-  MeepCity-
   PetSimX--
   BoogaBooga-
   TowerDefenseSimulator-
-  Doors
-  LegendsOfSpeed
-  DaHood
-  Arsenal
-  BrookHaven
-  SlapBattles
+  Door-
+  DaHood-
+  Arsenal-
+  BrookHaven-
+  SlapBattles-
   and more...
