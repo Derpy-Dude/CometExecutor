@@ -1,6 +1,6 @@
 # Scripts
 
-4Aimbot
+/Aimbot/
 BloxHunt
 AdoptMe
 Aimbot3.0
